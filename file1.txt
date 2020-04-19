@@ -1,1 +1,3 @@
-hello git
+첫 번째 커밋
+second
+
